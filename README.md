@@ -9,7 +9,7 @@ The concordance class was separately implemented using two data structures: Sing
  
 # Implementation using singly-linked list structure
 
-concordance_recursive.h/concordance_recursive.cpp
+concordance_singlyll.h/concordance_singlyll.cpp
 
 # Implementation using Binary Search Trees structure
 
